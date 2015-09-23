@@ -1,0 +1,4 @@
+	<a href="/auth/facebook">
+		<img src="login-with-facebook.png" width="154" height="22">
+	</a>
+	<br ><br>
